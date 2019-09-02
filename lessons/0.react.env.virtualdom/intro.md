@@ -1,19 +1,18 @@
 # React is:
 - library in javascript from facebook 
 - not a framework
-- library to builing Single-Page-Apps (SPA) and also to make Progressive Web Apps (PWA)
+- library for building Single-Page-Apps (SPA) as well as to make Progressive Web Apps (PWA)
 - library as VIEW in Model-View-Controller pattern
 - probably most wanted frontend tech stack you should know
 
 # React has:
 - applications not websites
-- a lots of community
-- a lots of knowledge with easy access - blogs, repos, cheatsheets
+- a large community
+- a vast knowledge with an easy access  - blogs, repos, cheatsheets
 
 # React use:
 - VirtualDOM, not DOM - "React’s local and simplified copy of the HTML DOM"
 - JSX and Components, not HTML - "React's way to handle HTML"
-
 
 # Requirements to run react app:
 - default terminal in macos || ConEmu on windows || default in terminal linux

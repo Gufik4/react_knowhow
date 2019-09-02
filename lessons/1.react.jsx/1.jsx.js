@@ -10,7 +10,7 @@ import React from 'react';
 // HTML has attribute "id", JSX has attribute "ref"
 // if you render many same JSX elements basing on array, every component have to have attribute "key"
 
-// very basic JSX element
+// very basic JSX element - component names starts from capital letter
 const Name = <h1>My name is Przemek</h1>;
 
 // basic JSX element with embedded expression

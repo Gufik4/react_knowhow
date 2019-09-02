@@ -16,8 +16,8 @@
 - CSS preprocessor LESS/SASS
 - import / export / modules
 
-# If you ready for lessons
-## list of lessons
+# If you are ready for lessons
+## list:
 1. React env + VirtualDOM + create-react-app / react-scripts
 2. React code + JSX + Props + Nesting
 3. Components - Functional / State / Functional + Proptypes
