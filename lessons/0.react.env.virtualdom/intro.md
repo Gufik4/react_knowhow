@@ -10,6 +10,11 @@
 - a lots of community
 - a lots of knowledge with easy access - blogs, repos, cheatsheets
 
+# React use:
+- VirtualDOM, not DOM - "React’s local and simplified copy of the HTML DOM"
+- JSX and Components, not HTML - "React's way to handle HTML"
+
+
 # Requirements to run react app:
 - default terminal in macos || ConEmu on windows || default in terminal linux
 - Node 8+

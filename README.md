@@ -1,4 +1,4 @@
-# 10 lessons from React Senior Dev
+# 10 practical lessons from React Senior Dev
 
 ## Before you start
 ### basic knowledge of HTML, CSS, JS you should know, including:
@@ -18,15 +18,15 @@
 
 # If you ready for lessons
 ## list of lessons
-- 0. React env + VirtualDOM + create-react-app / react-scripts
-- 1. React code + JSX + Props + Nesting
-- 2. Components - Functional / State / Functional + Proptypes
-- 3. Lifecycle methods - constructor / componentDidMount / render / componentDidUpdate / static getDerivedStateFromProps
-- 4. HOC + Hooks
-- 5. ContextAPI - Provider/Consumer
-- 6. Redux / Flux / Store / Reducer / Action
-- 7. Router / Route / BrowserRouter / HashRouter
-- 8. Model-View-Controller = Boilerplate API-React-Logic(JS + Redux)
-- 9. Webpack, Jest
+1. React env + VirtualDOM + create-react-app / react-scripts
+2. React code + JSX + Props + Nesting
+3. Components - Functional / State / Functional + Proptypes
+4. Lifecycle methods - constructor / componentDidMount / render / componentDidUpdate / static getDerivedStateFromProps
+5. HOC + Hooks
+6. ContextAPI - Provider/Consumer
+7. Redux / Flux / Store / Reducer / Action
+8. Router / Route / BrowserRouter / HashRouter
+9. Model-View-Controller = Boilerplate API-React-Logic(JS + Redux)
+10. Webpack, Jest
 
 ### Made by Przemocny (Przemek Jóźwiakowski)
