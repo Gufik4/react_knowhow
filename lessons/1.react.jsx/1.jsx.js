@@ -1,7 +1,7 @@
 import React from 'react';
 
 // JSX - javascript template syntax on steroids using in react
-// single JSX element is called "component"/"element"
+// single JSX element is called "component" or "element"
 
 // small differences between JSX and HTML
 // HTML uses attributes with lowercased names, JSX with camelCased names
@@ -30,7 +30,7 @@ const Name3 = <h1>My name is {nameToUppercase (firstName)}</h1>;
 const Header1 = <h1>Header1</h1>;
 const Header2 = <h2>Header2</h2>;
 
-// nested component
+// component with nesting
 const TopHeader = () => {
   return (
     <div>

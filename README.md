@@ -1,4 +1,4 @@
-# 10 practical lessons from React Senior Dev
+# Practical lessons from React Senior Dev
 
 ## Before you start
 ### basic knowledge of HTML, CSS, JS you should know, including:
@@ -16,12 +16,12 @@
 - CSS preprocessor LESS/SASS
 - import / export / modules
 
-# If you are ready for lessons
-## list:
+## If you are ready for lessons
+### list of subjects:
 1. React env + VirtualDOM + create-react-app / react-scripts
 2. React code + JSX + Props + Nesting
 3. Components - Functional / State / Functional + Proptypes
-4. Lifecycle methods - constructor / componentDidMount / render / componentDidUpdate / static getDerivedStateFromProps
+4. Lifecycle methods - constructor / componentDidMount / render / componentDidUpdate / getDerivedStateFromProps
 5. HOC + Hooks
 6. ContextAPI - Provider/Consumer
 7. Redux / Flux / Store / Reducer / Action
